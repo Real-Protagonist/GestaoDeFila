@@ -1,0 +1,3 @@
+Cliente{numero tarefas: 2, prioridades: [Tempo na fila,  Deficiente], ordem: 6, estado: Aguardando, tentativas: 2, tempo na fila: 3}
+Cliente{numero tarefas: 2, prioridades: [Idoso], ordem: 4, estado: Aguardando, tentativas: 2, tempo na fila: 3}
+Cliente{numero tarefas: 3, prioridades: [Gestante,  Dep�sito], ordem: 2, estado: Aguardando, tentativas: 2, tempo na fila: 3}
